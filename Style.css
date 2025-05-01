@@ -332,6 +332,8 @@ background-color: #f9f9f9;
 .contactLeft{
      
     padding-left: 20%;
+    color: purple;
+    font-size: 18;
     
     padding-top: 80;
 }
@@ -371,4 +373,25 @@ background-color: #f9f9f9;
     color: #f9f9f9;
     background-color:black;
 }
+
+.last{
+    padding-left: 80;
+    padding-right: 80;
+    padding-top: 100;
+    padding-bottom: 100;
+    background-color: rgb(4, 4, 99);
+    text-align: center;
+    color: white;
+}
+
+.lastText{
+    font-size: 20;
+   font-family:'Times New Roman', Times, serif;
+}
     
+.socialM{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 30%;
+    padding-right: 30%;
+}
